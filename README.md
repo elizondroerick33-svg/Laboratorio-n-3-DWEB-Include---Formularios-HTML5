@@ -61,5 +61,6 @@ Todo el código está dentro de la carpeta `TallerAspirantes/`:
 - **Foto** validada por extensión (`jpg`, `jpeg`, `png`, `gif`, `webp`), tamaño máximo de 2 MB y tipo real del archivo.
 - La foto se guarda con un nombre aleatorio en `uploaded_files/`.
 - El archivo `.htaccess` impide acceder a las fotos desde el navegador.
+<img width="1366" height="687" alt="image" src="https://github.com/user-attachments/assets/ce945372-d126-4444-9633-5bba578033f7" />
 
 
